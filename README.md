@@ -10,16 +10,19 @@
     4. Material UI
 
 # Creator📝
- &copy; Simon Muia&trade;
 
- # Need A Project?
-  1. [LinkedIn Profile](https://www.linkedin.com/in/simonmuia/)
+&copy; Simon Muia&trade;
 
+# Need A Project?
 
-# HOW TO INSTALL 
+1. [LinkedIn Profile](https://www.linkedin.com/in/simonmuia/){:target="\_blank" rel="noopener"}
+
+# HOW TO INSTALL
 
 In the project directory, you can run:
+
 ### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
