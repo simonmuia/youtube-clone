@@ -1,11 +1,25 @@
-# Getting Started with Create React App
+# YOUTUBE-CLONE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This is a basic YouTube Clone App developed for learning purposes only
 
-## Available Scripts
+## Technologies Used
+
+    1. ReactJS
+    2. RapidAPI
+    3. JavaScript
+    4. Material UI
+
+# Creator
+ &copy; Simon Muia&trade;
+
+ # Need A Project?
+  1. [linkedIn Profile](https://www.linkedin.com/in/simonmuia/)
+
+
+# HOW TO INSTALL 
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
