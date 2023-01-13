@@ -13,11 +13,11 @@
 
 &copy; Simon Muia&trade;
 
-# Need A Project?
+### Need A project?
 
 1. [LinkedIn Profile](https://www.linkedin.com/in/simonmuia/)
 
-# HOW TO INSTALL
+### How to Install
 
 In the project directory, you can run:
 
