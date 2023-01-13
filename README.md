@@ -15,7 +15,7 @@
 
 # Need A Project?
 
-1. [LinkedIn Profile](https://www.linkedin.com/in/simonmuia/){:target="\_blank" rel="noopener"}
+1. [LinkedIn Profile](https://www.linkedin.com/in/simonmuia/)
 
 # HOW TO INSTALL
 
