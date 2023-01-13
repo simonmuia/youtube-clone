@@ -1,19 +1,19 @@
-# YOUTUBE-CLONE
+# YOUTUBE-CLONE📺
 
 - This is a basic YouTube Clone App developed for learning purposes only
 
-## Technologies Used
+## Technologies Used⚙️
 
     1. ReactJS
     2. RapidAPI
     3. JavaScript
     4. Material UI
 
-# Creator
+# Creator📝
  &copy; Simon Muia&trade;
 
  # Need A Project?
-  1. [linkedIn Profile](https://www.linkedin.com/in/simonmuia/)
+  1. [LinkedIn Profile](https://www.linkedin.com/in/simonmuia/)
 
 
 # HOW TO INSTALL 
